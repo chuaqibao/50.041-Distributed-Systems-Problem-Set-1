@@ -1,6 +1,9 @@
 # Distributed Systems Problem Set 1
 Chua Qi Bao 1004494
 
+## Assignment Brief
+Assignment description can be found in Programming_HW1.pdf file.
+
 ## How to Run
 1. Uncomment all the lines in the file
 2. Comment out all other files (except the 1st line)
